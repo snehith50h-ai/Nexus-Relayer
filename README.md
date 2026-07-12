@@ -18,11 +18,16 @@ Nexus Relayer completely eliminates the need for ADA by intercepting user intent
 ## Project Demo
 Our project features a premium glassmorphic UI, live wallet balance scanning, and a live pricing oracle that automatically quotes the required fee based on real-world USD prices.
 
+*(Please insert your Demo Photos / Videos Here)*
+
+## GitHub Repository
+[https://github.com/snehith50h-ai/Nexus-Relayer](https://github.com/snehith50h-ai/Nexus-Relayer)
 
 ## Live Project Link
 Not deployed yet. (Running on Localhost / Preprod Testnet)
 
-
+## PPT Link
+https://drive.google.com/file/d/11r4rbfhY2WNqt_BW6Cy_FRzqEFwzfqNn/view?usp=sharing
 
 ---
 
